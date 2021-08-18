@@ -8,11 +8,11 @@ Fixed triggers that are rotated causing players to be pushed in the wrong direct
 
 ## Cvars
 
-triggerpushfix_version - Version number
-triggerpushfix_enable - 0 = Disable, 1 = Enable
+- triggerpushfix_version - Version number
+- triggerpushfix_enable - 0 = Disable, 1 = Enable
 
 ## Credits
-- [Blacky (Me)](http://steamcommunity.com/id/blaackyy/)
+- [Blacky](http://steamcommunity.com/id/blaackyy/)
 - [Mev](http://steamcommunity.com/id/mevv/)
 - [George](http://steamcommunity.com/profiles/76561197975854215/) for the filter code
 - Slidy
